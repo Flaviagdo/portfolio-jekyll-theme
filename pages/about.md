@@ -5,9 +5,9 @@ permalink: /about
 ---
 
 
-<p>
+<h1>
 Flávia Godoi de Oliveira
-</p>
+</h1>
 <p>
  <a href="https://www.linkedin.com/in/fl%C3%A1via-de-oliveira-1953b4134/">LinkedIn</a><strong> </strong>
 </p>

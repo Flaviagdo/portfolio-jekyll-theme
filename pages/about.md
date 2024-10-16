@@ -15,7 +15,7 @@ Flávia Godoi de Oliveira
   Last Updated Oct 2024
 </p>
    <td colspan="3" style="background-color: null">
-<h1><strong>ABOUT ME</strong></h1>
+<h2><strong>ABOUT ME</strong></h2>
 
 I am Flavia de Oliveira, I am based in Ireland and currently undertaking the Professional Certificate in Data Analytics course. I have a bachelor Degree in International Business, a Master Degree in Digital Innovations and many other short term specializations. I am currently in the Tech Industry and work for Google.
 </p>
